@@ -1,0 +1,14 @@
+.PageHeaderContainer{
+    background-color:steelblue;
+    margin-top: 10px;
+ 
+}
+
+.PageHeaderSubContainer{
+    display: flex;
+    justify-content: space-between;
+    /* justify-content: center; */
+    margin: auto;
+    width: 80%;
+    /* line-height: 6; */
+}

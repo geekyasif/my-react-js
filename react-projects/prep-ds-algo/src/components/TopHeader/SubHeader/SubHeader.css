@@ -1,0 +1,10 @@
+.subHeadingContainer{
+    display: flex;
+    background-color: red;
+    line-height: 4;
+  
+}
+
+.subHeadingText{
+    margin: auto;
+}

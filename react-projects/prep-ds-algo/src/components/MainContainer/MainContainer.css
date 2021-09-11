@@ -1,0 +1,18 @@
+.mainContainer{
+   background-color: blanchedalmond;
+   margin-top: 20px;
+}
+
+.row{
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+
+.postContainer{
+    width: 80%;
+}
+
+.sideNavbar{
+    width: 20%;
+}
